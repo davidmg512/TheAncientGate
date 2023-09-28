@@ -1,2 +1,2 @@
 # TheAncientGate
-Turn based RPG indie game.
+Turn based RPG indie game made in Unreal Engine 5.
